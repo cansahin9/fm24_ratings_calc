@@ -2,12 +2,6 @@
 
 This project calculates player suitability for various Football Manager roles using a custom scoring system based on in-game attributes. It supports reading exported HTML squad data and outputs version-controlled CSV table for analysis.
 
-## Features
-
-- Role-based attribute weighting
-- Automatic versioned file saving
-- Export to CSV or sortable HTML
-- Interactive Jupyter interface
 
 ## Usage
 
